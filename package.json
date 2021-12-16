@@ -1,0 +1,14 @@
+{
+  "name": "hifi-stuff",
+  "version": "1.0.0",
+  "description": "My first Git webshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CodeGorill - Toby Versteeg",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
